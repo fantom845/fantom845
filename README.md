@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fantom845
-- 👀 I’m interested in Artificial Intelligence🤖
+- 👀 I’m interested in Artificial Intelligence🤖 and Quantum Computing🧭
 - 🌱 I’m currently learning DSA and Machine Learning
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 💞️ I’m looking to collaborate on Deep Learning Projects and Quantum Computing research projects
 - 📫 How to reach me ... kanishkktyagi845@gmail.com
 
 <!---
